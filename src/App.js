@@ -6,7 +6,7 @@ import { getFirestore, collection, query, orderBy, limit, addDoc, serverTimestam
 import { useAuthState } from 'react-firebase-hooks/auth';
 import { useCollectionData } from 'react-firebase-hooks/firestore';
 
-// TODO: Replace the following with your app's Firebase project configuration
+
 const firebaseConfig = {
   apiKey: "AIzaSyA3wyF19tuq6RRcDKfqsWoMfcXWI5AxJBo",
   authDomain: "chatangina-6af63.firebaseapp.com",
