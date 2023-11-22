@@ -29,7 +29,7 @@ function App() {
   return (
     <div className="App">
       <header>
-        <h1>ChaTangina</h1>
+        <h1>ChaTangina💩</h1>
         {user ? <button onClick={() => auth.signOut()}>Sign Out</button> : null}
       </header>
 
