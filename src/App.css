@@ -89,7 +89,7 @@ input {
 button {
   display: inline-block;
   padding: 1em 2em;
-  margin: 0 1em 1em 0;
+  margin: 0;
   border: 0.16em solid rgba(255, 255, 255, 0);
   background-color:rgb(56, 56, 143);
   border-radius: 2em;
